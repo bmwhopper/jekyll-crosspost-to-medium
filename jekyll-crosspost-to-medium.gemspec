@@ -16,8 +16,8 @@ Gem::Specification.new do |s|
   Setting it to false will skip the processing loop entirely which can be
   useful for local preview builds.
 EOF
-  s.authors     = ["Aaron Gustafson"]
-  s.email       = 'aaron@easy-designs.net'
+  s.authors     = ["Brian Mathews"]
+  s.email       = 'brianmathews.mathews8@gmail.com'
   s.files       = ["lib/jekyll-crosspost-to-medium.rb"]
   s.homepage    = 'http://rubygems.org/gems/jekyll-crosspost-to-medium'
   s.license     = 'MIT'
