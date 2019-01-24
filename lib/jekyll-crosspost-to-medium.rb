@@ -1,10 +1,13 @@
-#  By Aaron Gustafson, based on the work of Jeremy Keith
+#  By Brian Mathews, based on the work of Jeremy Keith and Aaron Gustafson
 #  https://github.com/aarongustafson/jekyll-crosspost_to_medium
 #  https://gist.github.com/adactio/c174a4a68498e30babfd
 #  Licence : MIT
 #
-#  This generator cross-posts entries to Medium. To work, this script requires
-#  a MEDIUM_USER_ID environment variable and a MEDIUM_INTEGRATION_TOKEN.
+#  This generator cross-posts entries to Medium, taking in variables for author chose the Mdeium account.
+#  To work, this script requires
+#  MEDIUM_USER_ID environment variable and a MEDIUM_INTEGRATION_TOKEN.
+#
+#
 #
 #  The generator will only pick up posts with the following front matter:
 #
